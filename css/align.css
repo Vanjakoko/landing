@@ -1,0 +1,52 @@
+.logo {
+    width: 500px;
+    height: 500px;
+}
+
+.align__center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fitness__ronin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timetable {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html {
+    background-color: gainsboro;
+}
+
+.inner {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    height: 150px;
+    width: 200px;
+}
+
+.trainers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.first__trainer{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    height: 400px;
+    width: 200px;
+}
+
+.second__trainer {
+    margin-right: 20px;
+}
